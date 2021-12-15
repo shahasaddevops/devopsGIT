@@ -1,9 +1,1 @@
-this is file A
-ad 
-advwe
-wqfqw
-fqwe
-ff
-qwe
-f
-qef
+this is lastest file post the clone with GIT
